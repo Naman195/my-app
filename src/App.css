@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.employId{
+  color: black;
+}
+
+td.employId {
+  background-color: salmon;
+}
+
+
+.employName {
+  
+  color:green;
+}
+td.employName {
+  background-color: yellow;
+}
+
+.employMobile {
+  
+  color: red;
+}
+
+td.employMobile {
+  background-color: skyblue;
+
+}
+
+.employJoiningDate {
+  
+  color: oldlace;
+}
+
+td.employJoiningDate {
+  background-color: olive;
+
+}
